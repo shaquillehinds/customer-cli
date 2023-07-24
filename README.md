@@ -12,5 +12,5 @@
 
 ### Usage
 
-`customer-cli -h` - if symlinked
-`yarn start -h` - if no symlink
+- `customer-cli -h` - if symlinked
+- `yarn start -h` - if no symlink

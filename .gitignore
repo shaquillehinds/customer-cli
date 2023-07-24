@@ -5,3 +5,5 @@ dist/
 *.env
 *.zip
 .ebextensions
+*playground.ts
+*playground.js

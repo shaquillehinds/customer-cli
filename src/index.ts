@@ -21,4 +21,6 @@ for (let command in commands) {
   commands[commandKey](program);
 }
 
+console.log(chalk.cyan(process.cwd()));
+
 program.parse(process.argv);
